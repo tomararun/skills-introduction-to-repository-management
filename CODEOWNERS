@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @tomararun
+/src/backend/database.py      @tomararun
+/src/backend/routers/auth.py  @tomararun
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @tomararun
